@@ -1,11 +1,11 @@
 # Hindi_Bible
 Hindi Bible (CC by SA)
 
-New Testament (27 books) available now.
+Full Bible (66 books) available now.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/hin/ (Coming soon)
+http://freebiblesindia.com/bible/hin/
 
 http://www.masihivaani.com
 
