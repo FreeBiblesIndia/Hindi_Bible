@@ -1,4 +1,7 @@
 # Hindi_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Hindi_Bible/blob/master/icons/icon.png?raw=true)
+
 Hindi Bible (CC by SA)
 
 Full Bible (66 books) available now.
